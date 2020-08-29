@@ -1,0 +1,6 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.linting.prospectorEnabled": false,
+    "python.linting.enabled": true,
+    "python.pythonPath": "/home/beetlejuice/miniconda3/envs/domBot/bin/python"
+}

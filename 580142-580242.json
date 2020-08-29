@@ -1,0 +1,1911 @@
+{
+    "time": 1598482750.1005225,
+    "cache": [
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580142,
+            "bidDeltas": [
+                {
+                    "quantity": "0.10000000",
+                    "rate": "11446.21880016"
+                },
+                {
+                    "quantity": "0",
+                    "rate": "11435.60011034"
+                }
+            ],
+            "askDeltas": [],
+            "time": 1598482739.4941766
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580143,
+            "bidDeltas": [
+                {
+                    "quantity": "0",
+                    "rate": "11445.00300000"
+                },
+                {
+                    "quantity": "1.04428000",
+                    "rate": "11443.81900000"
+                }
+            ],
+            "askDeltas": [
+                {
+                    "quantity": "1.04191000",
+                    "rate": "11450.03000000"
+                },
+                {
+                    "quantity": "0.02504246",
+                    "rate": "11451.67400000"
+                },
+                {
+                    "quantity": "0",
+                    "rate": "11469.59026557"
+                }
+            ],
+            "time": 1598482739.5038097
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580144,
+            "bidDeltas": [
+                {
+                    "quantity": "0",
+                    "rate": "11446.21880016"
+                },
+                {
+                    "quantity": "0.49010000",
+                    "rate": "11435.60011034"
+                }
+            ],
+            "askDeltas": [
+                {
+                    "quantity": "0.57422775",
+                    "rate": "11450.12999999"
+                },
+                {
+                    "quantity": "0",
+                    "rate": "11451.77349999"
+                },
+                {
+                    "quantity": "1.45243499",
+                    "rate": "11469.59026557"
+                }
+            ],
+            "time": 1598482739.8529084
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580145,
+            "bidDeltas": [
+                {
+                    "quantity": "0.10000000",
+                    "rate": "11443.88443868"
+                },
+                {
+                    "quantity": "0",
+                    "rate": "11435.60011034"
+                }
+            ],
+            "askDeltas": [],
+            "time": 1598482739.8826542
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580146,
+            "bidDeltas": [],
+            "askDeltas": [
+                {
+                    "quantity": "1.10680279",
+                    "rate": "11450.03000000"
+                }
+            ],
+            "time": 1598482739.9227479
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580147,
+            "bidDeltas": [],
+            "askDeltas": [
+                {
+                    "quantity": "0",
+                    "rate": "11451.67400000"
+                },
+                {
+                    "quantity": "0.19999995",
+                    "rate": "11455.59938678"
+                }
+            ],
+            "time": 1598482739.977883
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580148,
+            "bidDeltas": [
+                {
+                    "quantity": "0.06964028",
+                    "rate": "11443.88443868"
+                },
+                {
+                    "quantity": "0",
+                    "rate": "11439.02613187"
+                },
+                {
+                    "quantity": "0.49010000",
+                    "rate": "11435.60011034"
+                }
+            ],
+            "askDeltas": [
+                {
+                    "quantity": "0.54954528",
+                    "rate": "11453.37500000"
+                }
+            ],
+            "time": 1598482740.035416
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580149,
+            "bidDeltas": [
+                {
+                    "quantity": "0.09999999",
+                    "rate": "11446.21880016"
+                },
+                {
+                    "quantity": "0",
+                    "rate": "11435.60011034"
+                }
+            ],
+            "askDeltas": [],
+            "time": 1598482740.0912557
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580150,
+            "bidDeltas": [],
+            "askDeltas": [
+                {
+                    "quantity": "0.06550224",
+                    "rate": "11460.90373711"
+                }
+            ],
+            "time": 1598482740.29948
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580151,
+            "bidDeltas": [],
+            "askDeltas": [
+                {
+                    "quantity": "0.09667030",
+                    "rate": "11465.09496489"
+                },
+                {
+                    "quantity": "0",
+                    "rate": "11469.59026557"
+                }
+            ],
+            "time": 1598482740.3764455
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580152,
+            "bidDeltas": [],
+            "askDeltas": [
+                {
+                    "quantity": "0",
+                    "rate": "11465.09496489"
+                },
+                {
+                    "quantity": "1.45243499",
+                    "rate": "11469.59026557"
+                }
+            ],
+            "time": 1598482740.4084942
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580153,
+            "bidDeltas": [],
+            "askDeltas": [
+                {
+                    "quantity": "1.08818806",
+                    "rate": "11450.03000000"
+                },
+                {
+                    "quantity": "0.16217252",
+                    "rate": "11460.90373711"
+                }
+            ],
+            "time": 1598482740.489867
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580154,
+            "bidDeltas": [],
+            "askDeltas": [
+                {
+                    "quantity": "0.97268050",
+                    "rate": "11450.03000000"
+                },
+                {
+                    "quantity": "0",
+                    "rate": "11458.70976247"
+                },
+                {
+                    "quantity": "0.49010000",
+                    "rate": "11471.70693058"
+                }
+            ],
+            "time": 1598482740.5290537
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580155,
+            "bidDeltas": [],
+            "askDeltas": [
+                {
+                    "quantity": "0.06550224",
+                    "rate": "11460.90373711"
+                }
+            ],
+            "time": 1598482740.579131
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580156,
+            "bidDeltas": [],
+            "askDeltas": [
+                {
+                    "quantity": "0.47270000",
+                    "rate": "11451.77350000"
+                },
+                {
+                    "quantity": "0.16217251",
+                    "rate": "11460.90373711"
+                }
+            ],
+            "time": 1598482740.6264775
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580157,
+            "bidDeltas": [],
+            "askDeltas": [
+                {
+                    "quantity": "0",
+                    "rate": "11455.59938678"
+                },
+                {
+                    "quantity": "0.16060000",
+                    "rate": "11471.70693059"
+                }
+            ],
+            "time": 1598482742.5058634
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580158,
+            "bidDeltas": [],
+            "askDeltas": [
+                {
+                    "quantity": "0.19999994",
+                    "rate": "11455.59938678"
+                },
+                {
+                    "quantity": "0.06550224",
+                    "rate": "11460.90373711"
+                },
+                {
+                    "quantity": "0",
+                    "rate": "11471.70693059"
+                }
+            ],
+            "time": 1598482742.506051
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580159,
+            "bidDeltas": [],
+            "askDeltas": [
+                {
+                    "quantity": "0.16217250",
+                    "rate": "11460.90373711"
+                }
+            ],
+            "time": 1598482742.5062127
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580160,
+            "bidDeltas": [],
+            "askDeltas": [
+                {
+                    "quantity": "0.52450284",
+                    "rate": "11453.37500000"
+                }
+            ],
+            "time": 1598482742.5149674
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580161,
+            "bidDeltas": [],
+            "askDeltas": [
+                {
+                    "quantity": "0.32422776",
+                    "rate": "11450.12999999"
+                },
+                {
+                    "quantity": "0.02504248",
+                    "rate": "11451.77349999"
+                },
+                {
+                    "quantity": "0",
+                    "rate": "11471.70693058"
+                }
+            ],
+            "time": 1598482742.5151427
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580162,
+            "bidDeltas": [],
+            "askDeltas": [
+                {
+                    "quantity": "0",
+                    "rate": "11455.59938678"
+                },
+                {
+                    "quantity": "0.49010000",
+                    "rate": "11471.70693058"
+                }
+            ],
+            "time": 1598482742.515291
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580163,
+            "bidDeltas": [
+                {
+                    "quantity": "0",
+                    "rate": "11446.21880005"
+                },
+                {
+                    "quantity": "0.14973414",
+                    "rate": "11445.00300142"
+                }
+            ],
+            "askDeltas": [
+                {
+                    "quantity": "0.72450284",
+                    "rate": "11453.37500000"
+                }
+            ],
+            "time": 1598482742.5154278
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580164,
+            "bidDeltas": [
+                {
+                    "quantity": "0",
+                    "rate": "11443.70131080"
+                },
+                {
+                    "quantity": "0.49010000",
+                    "rate": "11435.60011034"
+                }
+            ],
+            "askDeltas": [
+                {
+                    "quantity": "0.17422777",
+                    "rate": "11450.12999999"
+                }
+            ],
+            "time": 1598482742.5485935
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580165,
+            "bidDeltas": [],
+            "askDeltas": [
+                {
+                    "quantity": "0.06550224",
+                    "rate": "11460.90373711"
+                }
+            ],
+            "time": 1598482742.7062263
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580166,
+            "bidDeltas": [],
+            "askDeltas": [
+                {
+                    "quantity": "0.52450284",
+                    "rate": "11453.37500000"
+                },
+                {
+                    "quantity": "0.16217249",
+                    "rate": "11460.90373711"
+                }
+            ],
+            "time": 1598482742.7523725
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580167,
+            "bidDeltas": [],
+            "askDeltas": [
+                {
+                    "quantity": "0.19999993",
+                    "rate": "11455.59938678"
+                },
+                {
+                    "quantity": "0",
+                    "rate": "11471.70693058"
+                }
+            ],
+            "time": 1598482742.9144993
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580168,
+            "bidDeltas": [
+                {
+                    "quantity": "0",
+                    "rate": "11445.00300142"
+                },
+                {
+                    "quantity": "0.00028637",
+                    "rate": "11433.15789473"
+                }
+            ],
+            "askDeltas": [],
+            "time": 1598482742.9146156
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580169,
+            "bidDeltas": [
+                {
+                    "quantity": "0.14973414",
+                    "rate": "11446.21880017"
+                },
+                {
+                    "quantity": "0",
+                    "rate": "11433.15789473"
+                }
+            ],
+            "askDeltas": [
+                {
+                    "quantity": "0.07422779",
+                    "rate": "11450.12999999"
+                }
+            ],
+            "time": 1598482742.9713418
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580170,
+            "bidDeltas": [],
+            "askDeltas": [
+                {
+                    "quantity": "0.29999993",
+                    "rate": "11455.59938678"
+                }
+            ],
+            "time": 1598482743.0552247
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580171,
+            "bidDeltas": [
+                {
+                    "quantity": "0.06964026",
+                    "rate": "11445.00300142"
+                },
+                {
+                    "quantity": "0",
+                    "rate": "11443.88443868"
+                }
+            ],
+            "askDeltas": [],
+            "time": 1598482743.1894257
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580172,
+            "bidDeltas": [],
+            "askDeltas": [
+                {
+                    "quantity": "0",
+                    "rate": "11451.77349999"
+                },
+                {
+                    "quantity": "0.54954527",
+                    "rate": "11453.37500000"
+                },
+                {
+                    "quantity": "0.49010000",
+                    "rate": "11471.70693058"
+                }
+            ],
+            "time": 1598482743.426571
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580173,
+            "bidDeltas": [],
+            "askDeltas": [
+                {
+                    "quantity": "0",
+                    "rate": "11455.59938678"
+                },
+                {
+                    "quantity": "0.16060000",
+                    "rate": "11471.70693059"
+                }
+            ],
+            "time": 1598482743.4266827
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580174,
+            "bidDeltas": [],
+            "askDeltas": [
+                {
+                    "quantity": "0.09999999",
+                    "rate": "11451.77349999"
+                },
+                {
+                    "quantity": "0.74954526",
+                    "rate": "11453.37500000"
+                },
+                {
+                    "quantity": "0",
+                    "rate": "11471.70693059"
+                }
+            ],
+            "time": 1598482743.4593072
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580175,
+            "bidDeltas": [
+                {
+                    "quantity": "0.15000000",
+                    "rate": "11440.82000002"
+                },
+                {
+                    "quantity": "0",
+                    "rate": "11435.60011034"
+                }
+            ],
+            "askDeltas": [
+                {
+                    "quantity": "0.90778771",
+                    "rate": "11450.03000000"
+                },
+                {
+                    "quantity": "0",
+                    "rate": "11451.77349999"
+                },
+                {
+                    "quantity": "0.54954527",
+                    "rate": "11453.37500000"
+                },
+                {
+                    "quantity": "0.16060000",
+                    "rate": "11471.70693059"
+                }
+            ],
+            "time": 1598482743.553032
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580176,
+            "bidDeltas": [],
+            "askDeltas": [
+                {
+                    "quantity": "0.97268049",
+                    "rate": "11450.03000000"
+                },
+                {
+                    "quantity": "0.64954527",
+                    "rate": "11453.37500000"
+                },
+                {
+                    "quantity": "0.19999992",
+                    "rate": "11455.59938678"
+                },
+                {
+                    "quantity": "0",
+                    "rate": "11471.70693059"
+                }
+            ],
+            "time": 1598482743.6464646
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580177,
+            "bidDeltas": [],
+            "askDeltas": [
+                {
+                    "quantity": "0.54954527",
+                    "rate": "11453.37500000"
+                }
+            ],
+            "time": 1598482743.673156
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580178,
+            "bidDeltas": [],
+            "askDeltas": [
+                {
+                    "quantity": "0.29999991",
+                    "rate": "11455.59938678"
+                }
+            ],
+            "time": 1598482743.7236085
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580179,
+            "bidDeltas": [],
+            "askDeltas": [
+                {
+                    "quantity": "0.19999992",
+                    "rate": "11455.59938678"
+                }
+            ],
+            "time": 1598482743.824876
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580180,
+            "bidDeltas": [
+                {
+                    "quantity": "0",
+                    "rate": "11445.00300142"
+                },
+                {
+                    "quantity": "0.49010000",
+                    "rate": "11435.60011034"
+                }
+            ],
+            "askDeltas": [
+                {
+                    "quantity": "0.09999999",
+                    "rate": "11458.50999998"
+                },
+                {
+                    "quantity": "0",
+                    "rate": "11471.70693058"
+                }
+            ],
+            "time": 1598482743.9346175
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580181,
+            "bidDeltas": [
+                {
+                    "quantity": "0.06964028",
+                    "rate": "11445.00300143"
+                },
+                {
+                    "quantity": "0",
+                    "rate": "11435.60011034"
+                }
+            ],
+            "askDeltas": [],
+            "time": 1598482743.9483707
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580182,
+            "bidDeltas": [],
+            "askDeltas": [
+                {
+                    "quantity": "0",
+                    "rate": "11458.50999998"
+                },
+                {
+                    "quantity": "0.49010000",
+                    "rate": "11471.70693058"
+                }
+            ],
+            "time": 1598482744.006052
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580183,
+            "bidDeltas": [],
+            "askDeltas": [
+                {
+                    "quantity": "0.90778771",
+                    "rate": "11450.03000000"
+                },
+                {
+                    "quantity": "0.64954526",
+                    "rate": "11453.37500000"
+                }
+            ],
+            "time": 1598482744.0545876
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580184,
+            "bidDeltas": [],
+            "askDeltas": [
+                {
+                    "quantity": "0.97268048",
+                    "rate": "11450.03000000"
+                },
+                {
+                    "quantity": "0",
+                    "rate": "11455.59938678"
+                },
+                {
+                    "quantity": "0.16060000",
+                    "rate": "11471.70693059"
+                }
+            ],
+            "time": 1598482744.5531235
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580185,
+            "bidDeltas": [
+                {
+                    "quantity": "0",
+                    "rate": "11443.70131079"
+                },
+                {
+                    "quantity": "0.20000000",
+                    "rate": "11443.13781465"
+                }
+            ],
+            "askDeltas": [
+                {
+                    "quantity": "1.15778771",
+                    "rate": "11450.03000000"
+                },
+                {
+                    "quantity": "0.54954527",
+                    "rate": "11453.37500000"
+                },
+                {
+                    "quantity": "0.19999991",
+                    "rate": "11455.59938678"
+                },
+                {
+                    "quantity": "0",
+                    "rate": "11471.70693059"
+                }
+            ],
+            "time": 1598482744.5532925
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580186,
+            "bidDeltas": [
+                {
+                    "quantity": "0",
+                    "rate": "11445.00300143"
+                },
+                {
+                    "quantity": "0",
+                    "rate": "11443.13781465"
+                },
+                {
+                    "quantity": "0.49010000",
+                    "rate": "11435.60011034"
+                },
+                {
+                    "quantity": "0.10000000",
+                    "rate": "11433.36323728"
+                }
+            ],
+            "askDeltas": [
+                {
+                    "quantity": "0.64954525",
+                    "rate": "11453.37500000"
+                }
+            ],
+            "time": 1598482744.5534058
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580187,
+            "bidDeltas": [
+                {
+                    "quantity": "0.06964027",
+                    "rate": "11443.88443868"
+                },
+                {
+                    "quantity": "0",
+                    "rate": "11433.36323728"
+                }
+            ],
+            "askDeltas": [
+                {
+                    "quantity": "1.22268047",
+                    "rate": "11450.03000000"
+                },
+                {
+                    "quantity": "0.54954527",
+                    "rate": "11453.37500000"
+                }
+            ],
+            "time": 1598482744.5771875
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580188,
+            "bidDeltas": [],
+            "askDeltas": [
+                {
+                    "quantity": "0.29999989",
+                    "rate": "11455.59938678"
+                }
+            ],
+            "time": 1598482744.632226
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580189,
+            "bidDeltas": [],
+            "askDeltas": [
+                {
+                    "quantity": "1.15778771",
+                    "rate": "11450.03000000"
+                }
+            ],
+            "time": 1598482744.8603125
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580190,
+            "bidDeltas": [],
+            "askDeltas": [
+                {
+                    "quantity": "0",
+                    "rate": "11455.59938678"
+                },
+                {
+                    "quantity": "0.16060000",
+                    "rate": "11471.70693059"
+                }
+            ],
+            "time": 1598482744.8641977
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580191,
+            "bidDeltas": [],
+            "askDeltas": [
+                {
+                    "quantity": "1.22268046",
+                    "rate": "11450.03000000"
+                }
+            ],
+            "time": 1598482744.8984072
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580192,
+            "bidDeltas": [
+                {
+                    "quantity": "0",
+                    "rate": "11443.88443867"
+                },
+                {
+                    "quantity": "0.10000000",
+                    "rate": "11433.36323728"
+                }
+            ],
+            "askDeltas": [
+                {
+                    "quantity": "1.32268046",
+                    "rate": "11450.03000000"
+                },
+                {
+                    "quantity": "0.74954525",
+                    "rate": "11453.37500000"
+                }
+            ],
+            "time": 1598482744.9448028
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580193,
+            "bidDeltas": [
+                {
+                    "quantity": "0.02504248",
+                    "rate": "11445.00300142"
+                },
+                {
+                    "quantity": "0",
+                    "rate": "11433.36323728"
+                }
+            ],
+            "askDeltas": [
+                {
+                    "quantity": "1.25778771",
+                    "rate": "11450.03000000"
+                },
+                {
+                    "quantity": "0.54954527",
+                    "rate": "11453.37500000"
+                }
+            ],
+            "time": 1598482745.1671777
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580194,
+            "bidDeltas": [],
+            "askDeltas": [
+                {
+                    "quantity": "1.32268045",
+                    "rate": "11450.03000000"
+                },
+                {
+                    "quantity": "0.19999990",
+                    "rate": "11455.59938678"
+                },
+                {
+                    "quantity": "0",
+                    "rate": "11471.70693059"
+                }
+            ],
+            "time": 1598482745.167311
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580195,
+            "bidDeltas": [],
+            "askDeltas": [
+                {
+                    "quantity": "1.47268045",
+                    "rate": "11450.03000000"
+                }
+            ],
+            "time": 1598482745.2168634
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580196,
+            "bidDeltas": [
+                {
+                    "quantity": "0",
+                    "rate": "11440.39000000"
+                },
+                {
+                    "quantity": "0.12100000",
+                    "rate": "11436.24000000"
+                }
+            ],
+            "askDeltas": [],
+            "time": 1598482745.2592497
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580197,
+            "bidDeltas": [
+                {
+                    "quantity": "0.19999999",
+                    "rate": "11443.13781465"
+                },
+                {
+                    "quantity": "0",
+                    "rate": "11435.60011034"
+                }
+            ],
+            "askDeltas": [],
+            "time": 1598482745.5767562
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580198,
+            "bidDeltas": [],
+            "askDeltas": [
+                {
+                    "quantity": "1.22268045",
+                    "rate": "11450.03000000"
+                }
+            ],
+            "time": 1598482745.5768695
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580199,
+            "bidDeltas": [],
+            "askDeltas": [
+                {
+                    "quantity": "0",
+                    "rate": "11455.59938678"
+                },
+                {
+                    "quantity": "0.16060000",
+                    "rate": "11471.70693059"
+                }
+            ],
+            "time": 1598482745.6169214
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580200,
+            "bidDeltas": [],
+            "askDeltas": [
+                {
+                    "quantity": "0.09999997",
+                    "rate": "11455.59938678"
+                },
+                {
+                    "quantity": "0",
+                    "rate": "11471.70693059"
+                }
+            ],
+            "time": 1598482745.6748893
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580201,
+            "bidDeltas": [],
+            "askDeltas": [
+                {
+                    "quantity": "0",
+                    "rate": "11455.59938678"
+                },
+                {
+                    "quantity": "0.19999997",
+                    "rate": "11458.50999998"
+                }
+            ],
+            "time": 1598482745.73004
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580202,
+            "bidDeltas": [],
+            "askDeltas": [
+                {
+                    "quantity": "0",
+                    "rate": "11458.50999998"
+                },
+                {
+                    "quantity": "0.16060000",
+                    "rate": "11471.70693059"
+                }
+            ],
+            "time": 1598482745.7924874
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580203,
+            "bidDeltas": [],
+            "askDeltas": [
+                {
+                    "quantity": "1.32268044",
+                    "rate": "11450.03000000"
+                },
+                {
+                    "quantity": "0.19999989",
+                    "rate": "11455.59938678"
+                },
+                {
+                    "quantity": "0",
+                    "rate": "11471.70693059"
+                }
+            ],
+            "time": 1598482745.877266
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580204,
+            "bidDeltas": [],
+            "askDeltas": [
+                {
+                    "quantity": "1.15778771",
+                    "rate": "11450.03000000"
+                },
+                {
+                    "quantity": "0",
+                    "rate": "11455.59938678"
+                },
+                {
+                    "quantity": "0.16060000",
+                    "rate": "11471.70693059"
+                }
+            ],
+            "time": 1598482745.9118848
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580205,
+            "bidDeltas": [],
+            "askDeltas": [
+                {
+                    "quantity": "0.61443805",
+                    "rate": "11453.37500000"
+                },
+                {
+                    "quantity": "0.09999996",
+                    "rate": "11455.59938678"
+                },
+                {
+                    "quantity": "0.19999996",
+                    "rate": "11458.50999998"
+                },
+                {
+                    "quantity": "0",
+                    "rate": "11471.70693058"
+                },
+                {
+                    "quantity": "0",
+                    "rate": "11471.70693059"
+                }
+            ],
+            "time": 1598482745.9576712
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580206,
+            "bidDeltas": [
+                {
+                    "quantity": "0",
+                    "rate": "11443.88443868"
+                },
+                {
+                    "quantity": "0.49010000",
+                    "rate": "11435.60011034"
+                }
+            ],
+            "askDeltas": [],
+            "time": 1598482746.1911838
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580207,
+            "bidDeltas": [
+                {
+                    "quantity": "0.06964027",
+                    "rate": "11445.00300143"
+                },
+                {
+                    "quantity": "0",
+                    "rate": "11435.60011034"
+                }
+            ],
+            "askDeltas": [],
+            "time": 1598482746.1912985
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580208,
+            "bidDeltas": [],
+            "askDeltas": [
+                {
+                    "quantity": "0",
+                    "rate": "11458.50999998"
+                },
+                {
+                    "quantity": "0.49010000",
+                    "rate": "11471.70693058"
+                }
+            ],
+            "time": 1598482746.9084344
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580209,
+            "bidDeltas": [
+                {
+                    "quantity": "0",
+                    "rate": "11445.00300143"
+                },
+                {
+                    "quantity": "0.06964028",
+                    "rate": "11443.88443869"
+                }
+            ],
+            "askDeltas": [
+                {
+                    "quantity": "0.54954527",
+                    "rate": "11453.37500000"
+                },
+                {
+                    "quantity": "0.29999984",
+                    "rate": "11455.59938678"
+                }
+            ],
+            "time": 1598482746.9085584
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580210,
+            "bidDeltas": [],
+            "askDeltas": [
+                {
+                    "quantity": "1.22268044",
+                    "rate": "11450.03000000"
+                }
+            ],
+            "time": 1598482746.9086607
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580211,
+            "bidDeltas": [],
+            "askDeltas": [
+                {
+                    "quantity": "1.37268043",
+                    "rate": "11450.03000000"
+                }
+            ],
+            "time": 1598482746.9166384
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580212,
+            "bidDeltas": [],
+            "askDeltas": [
+                {
+                    "quantity": "0.19999988",
+                    "rate": "11455.59938678"
+                }
+            ],
+            "time": 1598482746.9648967
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580213,
+            "bidDeltas": [],
+            "askDeltas": [
+                {
+                    "quantity": "0.00043669",
+                    "rate": "11449.96463744"
+                },
+                {
+                    "quantity": "1.47268041",
+                    "rate": "11450.03000000"
+                },
+                {
+                    "quantity": "0",
+                    "rate": "11471.70693058"
+                }
+            ],
+            "time": 1598482747.076728
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580214,
+            "bidDeltas": [],
+            "askDeltas": [
+                {
+                    "quantity": "1.40778768",
+                    "rate": "11450.03000000"
+                }
+            ],
+            "time": 1598482747.1075013
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580215,
+            "bidDeltas": [
+                {
+                    "quantity": "0.00317906",
+                    "rate": "11449.84900000"
+                }
+            ],
+            "askDeltas": [],
+            "time": 1598482747.5224934
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580216,
+            "bidDeltas": [],
+            "askDeltas": [
+                {
+                    "quantity": "1.30778770",
+                    "rate": "11450.03000000"
+                },
+                {
+                    "quantity": "0.61443804",
+                    "rate": "11453.37500000"
+                }
+            ],
+            "time": 1598482747.5629647
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580217,
+            "bidDeltas": [],
+            "askDeltas": [
+                {
+                    "quantity": "0.29999983",
+                    "rate": "11455.59938678"
+                }
+            ],
+            "time": 1598482747.611395
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580218,
+            "bidDeltas": [],
+            "askDeltas": [
+                {
+                    "quantity": "0.54954527",
+                    "rate": "11453.37500000"
+                },
+                {
+                    "quantity": "0.09999995",
+                    "rate": "11455.59938678"
+                }
+            ],
+            "time": 1598482747.6547668
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580219,
+            "bidDeltas": [],
+            "askDeltas": [
+                {
+                    "quantity": "0.16489273",
+                    "rate": "11455.59938678"
+                },
+                {
+                    "quantity": "0.19999995",
+                    "rate": "11458.50999998"
+                },
+                {
+                    "quantity": "0",
+                    "rate": "11469.59026557"
+                }
+            ],
+            "time": 1598482747.7227423
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580220,
+            "bidDeltas": [
+                {
+                    "quantity": "0",
+                    "rate": "11443.88443869"
+                },
+                {
+                    "quantity": "0.49010000",
+                    "rate": "11435.60011034"
+                }
+            ],
+            "askDeltas": [
+                {
+                    "quantity": "0.52450284",
+                    "rate": "11453.37500000"
+                }
+            ],
+            "time": 1598482747.764592
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580221,
+            "bidDeltas": [
+                {
+                    "quantity": "0.06964028",
+                    "rate": "11446.21880018"
+                },
+                {
+                    "quantity": "0",
+                    "rate": "11435.60011034"
+                }
+            ],
+            "askDeltas": [
+                {
+                    "quantity": "0.02504247",
+                    "rate": "11453.94923261"
+                },
+                {
+                    "quantity": "0",
+                    "rate": "11469.02271450"
+                }
+            ],
+            "time": 1598482747.8459477
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580222,
+            "bidDeltas": [],
+            "askDeltas": [
+                {
+                    "quantity": "0.06489278",
+                    "rate": "11455.59938678"
+                }
+            ],
+            "time": 1598482748.2393599
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580223,
+            "bidDeltas": [],
+            "askDeltas": [
+                {
+                    "quantity": "0.29999993",
+                    "rate": "11458.50999998"
+                }
+            ],
+            "time": 1598482748.242119
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580224,
+            "bidDeltas": [],
+            "askDeltas": [
+                {
+                    "quantity": "0.19999995",
+                    "rate": "11458.50999998"
+                }
+            ],
+            "time": 1598482748.5465891
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580225,
+            "bidDeltas": [
+                {
+                    "quantity": "0",
+                    "rate": "11445.00300142"
+                },
+                {
+                    "quantity": "0.49010000",
+                    "rate": "11435.60011034"
+                }
+            ],
+            "askDeltas": [
+                {
+                    "quantity": "0.16489272",
+                    "rate": "11455.59938678"
+                }
+            ],
+            "time": 1598482748.546726
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580226,
+            "bidDeltas": [
+                {
+                    "quantity": "0.09468276",
+                    "rate": "11446.21880018"
+                }
+            ],
+            "askDeltas": [],
+            "time": 1598482748.5514765
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580227,
+            "bidDeltas": [
+                {
+                    "quantity": "0.06964028",
+                    "rate": "11446.21880018"
+                }
+            ],
+            "askDeltas": [],
+            "time": 1598482748.751246
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580228,
+            "bidDeltas": [
+                {
+                    "quantity": "0.02504247",
+                    "rate": "11445.00300142"
+                },
+                {
+                    "quantity": "0",
+                    "rate": "11435.60011034"
+                }
+            ],
+            "askDeltas": [
+                {
+                    "quantity": "0.09999994",
+                    "rate": "11455.59938678"
+                }
+            ],
+            "time": 1598482748.7602057
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580229,
+            "bidDeltas": [
+                {
+                    "quantity": "0",
+                    "rate": "11445.00300141"
+                },
+                {
+                    "quantity": "0.49010000",
+                    "rate": "11435.60011034"
+                }
+            ],
+            "askDeltas": [
+                {
+                    "quantity": "0",
+                    "rate": "11458.77980431"
+                },
+                {
+                    "quantity": "0.00377868",
+                    "rate": "11469.02271450"
+                }
+            ],
+            "time": 1598482748.811966
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580230,
+            "bidDeltas": [],
+            "askDeltas": [
+                {
+                    "quantity": "0.58939560",
+                    "rate": "11453.37500000"
+                }
+            ],
+            "time": 1598482748.8685093
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580231,
+            "bidDeltas": [],
+            "askDeltas": [
+                {
+                    "quantity": "0.52450284",
+                    "rate": "11453.37500000"
+                },
+                {
+                    "quantity": "0",
+                    "rate": "11455.59938678"
+                },
+                {
+                    "quantity": "0",
+                    "rate": "11458.50999998"
+                },
+                {
+                    "quantity": "1.45243499",
+                    "rate": "11469.59026557"
+                },
+                {
+                    "quantity": "0.49010000",
+                    "rate": "11471.70693058"
+                }
+            ],
+            "time": 1598482749.0582194
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580232,
+            "bidDeltas": [],
+            "askDeltas": [
+                {
+                    "quantity": "0.19999994",
+                    "rate": "11458.50999998"
+                },
+                {
+                    "quantity": "0",
+                    "rate": "11471.70693058"
+                }
+            ],
+            "time": 1598482749.0628378
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580233,
+            "bidDeltas": [],
+            "askDeltas": [
+                {
+                    "quantity": "0.62450281",
+                    "rate": "11453.37500000"
+                },
+                {
+                    "quantity": "0.06489277",
+                    "rate": "11455.59938678"
+                },
+                {
+                    "quantity": "0",
+                    "rate": "11469.59026557"
+                }
+            ],
+            "time": 1598482749.125923
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580234,
+            "bidDeltas": [],
+            "askDeltas": [
+                {
+                    "quantity": "0",
+                    "rate": "11458.50999998"
+                },
+                {
+                    "quantity": "1.45243499",
+                    "rate": "11469.59026557"
+                }
+            ],
+            "time": 1598482749.2652018
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580235,
+            "bidDeltas": [],
+            "askDeltas": [
+                {
+                    "quantity": "0.52450284",
+                    "rate": "11453.37500000"
+                },
+                {
+                    "quantity": "0",
+                    "rate": "11455.59938678"
+                },
+                {
+                    "quantity": "0.19999993",
+                    "rate": "11458.50999998"
+                }
+            ],
+            "time": 1598482749.468772
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580236,
+            "bidDeltas": [],
+            "askDeltas": [
+                {
+                    "quantity": "0",
+                    "rate": "11453.94923261"
+                },
+                {
+                    "quantity": "0.49010000",
+                    "rate": "11471.70693058"
+                }
+            ],
+            "time": 1598482749.4688988
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580237,
+            "bidDeltas": [],
+            "askDeltas": [
+                {
+                    "quantity": "0.61443801",
+                    "rate": "11453.37500000"
+                },
+                {
+                    "quantity": "0.09999993",
+                    "rate": "11455.59938678"
+                },
+                {
+                    "quantity": "0",
+                    "rate": "11471.70693058"
+                }
+            ],
+            "time": 1598482749.4774356
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580238,
+            "bidDeltas": [],
+            "askDeltas": [
+                {
+                    "quantity": "0.54954526",
+                    "rate": "11453.37500000"
+                },
+                {
+                    "quantity": "0",
+                    "rate": "11455.59938678"
+                },
+                {
+                    "quantity": "0",
+                    "rate": "11458.50999998"
+                },
+                {
+                    "quantity": "0.49010000",
+                    "rate": "11471.70693058"
+                },
+                {
+                    "quantity": "0.16060000",
+                    "rate": "11471.70693059"
+                }
+            ],
+            "time": 1598482749.5198352
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580239,
+            "bidDeltas": [
+                {
+                    "quantity": "0",
+                    "rate": "11445.00300142"
+                },
+                {
+                    "quantity": "0.10000000",
+                    "rate": "11433.36323728"
+                }
+            ],
+            "askDeltas": [
+                {
+                    "quantity": "0.19999987",
+                    "rate": "11455.59938678"
+                },
+                {
+                    "quantity": "0",
+                    "rate": "11471.70693059"
+                }
+            ],
+            "time": 1598482749.563014
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580240,
+            "bidDeltas": [
+                {
+                    "quantity": "0.02504248",
+                    "rate": "11446.21880019"
+                },
+                {
+                    "quantity": "0",
+                    "rate": "11433.36323728"
+                }
+            ],
+            "askDeltas": [
+                {
+                    "quantity": "0.26489263",
+                    "rate": "11455.59938678"
+                },
+                {
+                    "quantity": "0.09999997",
+                    "rate": "11458.50999998"
+                },
+                {
+                    "quantity": "0",
+                    "rate": "11471.70693058"
+                }
+            ],
+            "time": 1598482749.629428
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580241,
+            "bidDeltas": [],
+            "askDeltas": [
+                {
+                    "quantity": "0",
+                    "rate": "11458.50999998"
+                },
+                {
+                    "quantity": "0.49010000",
+                    "rate": "11471.70693058"
+                }
+            ],
+            "time": 1598482749.877713
+        },
+        {
+            "marketSymbol": "BTC-USDT",
+            "depth": 25,
+            "sequence": 580242,
+            "bidDeltas": [],
+            "askDeltas": [
+                {
+                    "quantity": "0.64954522",
+                    "rate": "11453.37500000"
+                },
+                {
+                    "quantity": "0.06489276",
+                    "rate": "11455.59938678"
+                }
+            ],
+            "time": 1598482750.1004927
+        }
+    ]
+}
